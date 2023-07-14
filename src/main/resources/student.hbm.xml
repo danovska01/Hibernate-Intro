@@ -8,5 +8,6 @@
             <generator class="identity" />
         </id>
         <property name="name" column="first_name" />
+        <property name="age" column="age" />
     </class>
 </hibernate-mapping>
